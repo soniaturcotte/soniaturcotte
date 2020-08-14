@@ -4,5 +4,6 @@ I currently work at Citizens Advice, redesigning the website and leading on a ne
 
 I’m also learning CSS Grid and Typescript for my new side project, [a gallery viewer](https://some-gallery-thing.toby.codes).  
 
+Contact: sonia.turcotte@gmail.com  
 Pronouns: she/her 
 
