@@ -1,4 +1,4 @@
-## Hi.
+## Hello
 
 I currently work at Citizens Advice, redesigning the website and leading on a new design system. I care a lot about accessibility and inclusive design. 
 
