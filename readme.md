@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-I’m a designer who does research and sometimes code. I care a lot about accessibility and inclusive design. 
+I’m a designer who researches and sometimes codes. I care a lot about accessibility and inclusive design. 
 
 I’m learning CSS Grid and Typescript for my new side project, [a gallery viewer](https://some-gallery-thing.toby.codes). 
 
