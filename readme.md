@@ -7,4 +7,4 @@ I’m learning CSS Grid and Typescript for my new side project, [a gallery viewe
 I love collaborating on projects that don’t fit neatly into disciplinary lines. Get in touch if you’d like to work with me.
 
 📫 Contact: sonia.turcotte@gmail.com  
-🙂 Pronouns: she/her 
+🙂 Pronouns: she/they 
